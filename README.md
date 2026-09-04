@@ -10,7 +10,7 @@ A collection of problems I've solved to practice algorithms, data structures, an
 
 | Difficulty | Answers |
 |------------|---------:|
-| 🟢 Easy    | 3 |
+| 🟢 Easy    | 4 |
 | 🟡 Medium  | 0 |
 | 🔴 Hard    | 0 |
 | **Total**  | **4** |
