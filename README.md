@@ -6,14 +6,14 @@ A collection of problems I've solved to practice algorithms, data structures, an
 
 ## 📊 Progress
 
-**Total Answers: 4**
+**Total Answers: 5**
 
 | Difficulty | Answers |
 |------------|---------:|
 | 🟢 Easy    | 4 |
-| 🟡 Medium  | 0 |
+| 🟡 Medium  | 1 |
 | 🔴 Hard    | 0 |
-| **Total**  | **4** |
+| **Total**  | **5** |
 
 ---
 
